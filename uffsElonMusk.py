@@ -15,12 +15,12 @@ def contribuicoes():
 
 
 def artigos():
-    mensagem = ""
+    mensagem = "TESTE alteração por Davi"
     return mensagem
 
 
 def citacoes():
-    mensagem = ""
+    mensagem = "TESTE alteração por Davi"
     return mensagem
 
 
